@@ -1,3 +1,15 @@
+comment_stylePreferences=NONE
+comment_text=false
 eclipse.preferences.version=1
 lineNumberRuler=true
+printMargin=true
+printMarginColumn=120
+removeSpacesAsTabs=true
+showEnclosedIdeographicSpaces=false
+showEnclosedSpaces=false
+showLeadingIdeographicSpaces=false
+showLeadingSpaces=false
+showWhitespaceCharacters=true
+spacesForTabs=true
 spellingEnabled=true
+tabWidth=2

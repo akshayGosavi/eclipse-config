@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+javascript.inlayHints.includeInlayEnumMemberValueHints=true
+typescript.inlayHints.includeInlayEnumMemberValueHints=true
